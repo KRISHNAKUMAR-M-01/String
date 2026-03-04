@@ -1,9 +1,8 @@
 
-
 import java.util.Arrays;
-
 public class Array {
     public static void main(String[] args) {
+        System.out.println("hello");
         String str="Hello World";
         String[] arr=str.split(" ");
         System.out.print("[");
